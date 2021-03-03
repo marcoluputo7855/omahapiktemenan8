@@ -1,0 +1,4 @@
+baseURL = "https://decorvivi-homeyse.vercel.app"
+languageCode = "en-us"
+title = "Home Decor Rooms"
+theme = "hugo-theme-minos"
